@@ -1,0 +1,3 @@
+C:/dev/SFMLgame/build/CMakeFiles/game.dir
+C:/dev/SFMLgame/build/CMakeFiles/edit_cache.dir
+C:/dev/SFMLgame/build/CMakeFiles/rebuild_cache.dir
